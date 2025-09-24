@@ -5,6 +5,7 @@ Here are the documents in this project:
 
 Folder: dataset_with_codes
 --
+This folder contains the finalized HNDataset with codes and raw data:
   1. NewsData_BASE
   NewsData_BASE is the HNDataset-BASE referred in the paper. Data is stored in the form of graphs.
   2. NewsData_emo
