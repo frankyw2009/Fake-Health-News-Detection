@@ -1,5 +1,5 @@
 This project aims to detect fake health news through innovative fake health news detection models and datasets.
-This repository is corresponded to a paper manuscript submitted for JEI(Journal of Emerging Investigators).
+This repository is corresponded to a paper manuscript submitted for JEI (Journal of Emerging Investigators).
 
 Here are the documents in this project:
 
