@@ -22,5 +22,5 @@ This folder contains the finalized HNDataset with codes and raw data:
 FakeNewsDetection_General.py
 ---------
 This document contains all the essential codes for X-HND models with different types (GCN, SAGE, GAT).<br>
-Notice: many code are in annotated form, as they serve as alternative modules for a certain part of program.
+Notice: many codes are in annotated form, as they serve as alternative modules for a certain part of the program.
      
