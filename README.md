@@ -24,7 +24,7 @@ This folder contains the finalized HNDataset with codes and raw data:
     c. output_finalized.csv<br>
     output_finalized.csv shows a form with root news and labels. Label 1 means fake news, label 0 means true news.<br>
     d. graph_samples<br>
-    graph_samples is a folder that stores 10 raw data health news dictionaries in individual documents.
+    graph_samples is a folder that stores 10 raw data health news dictionaries individually in numpy documents.<br>
     This can be used to understand the structure of news dictioneries and can also be used for testing.<br>
 
 FakeNewsDetection_General.py
