@@ -4,6 +4,7 @@ This repository is corresponded to a paper manuscript submitted for JEI (Journal
 Here are the documents in this project:
 
 Folder: dataset_with_codes
+--
   1. NewsData_BASE
   NewsData_BASE is the HNDataset-BASE referred in the paper. Data is stored in the form of graphs.
   2. NewsData_emo
@@ -18,6 +19,7 @@ Folder: dataset_with_codes
   output_finalized.csv shows a form with root news and labels. Label 1 means fake news, 0 means true news.
 
 FakeNewsDetection_General.py
-  This document contains all the essential codes for X-HND models with different types (GCN, SAGE, GAT).
+---------
+This document contains all the essential codes for X-HND models with different types (GCN, SAGE, GAT).
 Notice: many code are in annotated form, as they serve as alternative modules for a certain part of program.
      
