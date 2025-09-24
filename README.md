@@ -11,13 +11,18 @@ This folder contains the finalized HNDataset with codes and raw data:
   2. NewsData_emo<br>
   NewsData_emo is the HNDataset-Emotion reffered in the paper. Data is stored in the form of graphs.
   3. codes_to_make_dataset<br>
-  base_graph.py is the document used to make HNDataset-BASE.
-  emotion_graph.py is the document used to make HNDataset-Emotion.
-  Both two documents shall be used together with NewsData_BASE and NewsData_emo
+    a. base_graph.py<br>
+    base_graph.py is the document used to make HNDataset-BASE.<br>
+    b. emotion_graph.py<br>
+    emotion_graph.py is the document used to make HNDataset-Emotion.<br>
+    -->Both two documents shall be used together with NewsData_BASE and NewsData_emo.<br>
   4. raw_data<br>
-  final_dataset.npy stores raw news data in the form of a list, and all the elements in the list are dictionaries.
-  first_graph.txt shows an example of news dictionary with root news, retweeters and historical posts in text form.
-  output_finalized.csv shows a form with root news and labels. Label 1 means fake news, 0 means true news.
+    a. final_dataset.npy<br>
+    final_dataset.npy stores raw news data in the form of a list, and all the elements in the list are dictionaries.<br>
+    b. first_graph.txt<br>
+    first_graph.txt shows an example of news dictionary with root news, retweeters and historical posts in text form.<br>
+    c. output_finalized.csv<br>
+    output_finalized.csv shows a form with root news and labels. Label 1 means fake news, 0 means true news.
 
 FakeNewsDetection_General.py
 ---------
