@@ -15,7 +15,7 @@ This folder contains the finalized HNDataset with codes and raw data:
     base_graph.py is the document used to make HNDataset-BASE.<br>
     b. emotion_graph.py<br>
     emotion_graph.py is the document used to make HNDataset-Emotion.<br>
-    -->Both two documents shall be used together with NewsData_BASE and NewsData_emo, respectively.<br>
+    -->Both two documents above shall be used together with NewsData_BASE and NewsData_emo, respectively.<br>
   4. raw_data<br>
     a. final_dataset.npy<br>
     final_dataset.npy stores raw news data in the form of a list, and all the elements in the list are dictionaries.<br>
@@ -30,5 +30,5 @@ This folder contains the finalized HNDataset with codes and raw data:
 FakeNewsDetection_General.py
 ---------
 This document contains all the essential codes for X-HND models with different types (GCN, SAGE, GAT).<br>
-Notice: many codes are in annotated form, as they serve as alternative modules for a certain part of the program.
+Notice: many lines of codes are in annotated form, as they serve as alternative modules for a certain part of the program.
      
