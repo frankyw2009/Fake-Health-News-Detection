@@ -1,7 +1,7 @@
-This project aims to detect fake health news through innovative fake health news detection models and datasets.
+This project aims to detect fake health news through innovative fake health news detection models and datasets.<br>
 This repository is corresponded to a paper manuscript submitted for JEI (Journal of Emerging Investigators).
 
-Here are the documents in this project:
+Here are the documents in this repository:
 
 Folder: dataset_with_codes
 --
@@ -22,7 +22,10 @@ This folder contains the finalized HNDataset with codes and raw data:
     b. first_graph.txt<br>
     first_graph.txt shows an example of news dictionary with root news, retweeters and historical posts in text form.<br>
     c. output_finalized.csv<br>
-    output_finalized.csv shows a form with root news and labels. Label 1 means fake news, label 0 means true news.
+    output_finalized.csv shows a form with root news and labels. Label 1 means fake news, label 0 means true news.<br>
+    d. graph_samples<br>
+    graph_samples is a folder that stores 10 raw data health news dictionaries in individual documents.
+    This can be used to understand the structure of news dictioneries and can also be used for testing.<br>
 
 FakeNewsDetection_General.py
 ---------
