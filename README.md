@@ -28,13 +28,10 @@ This folder contains the finalized HNDataset with codes and raw data:
   **a. final_dataset.npy**<br>
     final_dataset.npy stores raw news data in the form of a list, and all the elements in the list are dictionaries.<br>
   
-  **b. first_graph.txt**<br>
-    first_graph.txt shows an example of news dictionary with root news, retweeters and historical posts in text form.<br>
-  
-  **c. output_finalized.csv**<br>
+  **b. output_finalized.csv**<br>
     output_finalized.csv shows a form with root news and labels. Label 1 means fake news, label 0 means true news.<br>
  
-  **d. graph_samples**<br>
+  **c. graph_samples**<br>
     graph_samples is a folder that stores 10 raw data health news dictionaries individually in numpy documents.<br>
     This can be used to understand the structure of news dictioneries and can also be used for testing.<br>
      
