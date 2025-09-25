@@ -1,7 +1,7 @@
 **This project aims to detect fake health news through innovative fake health news detection models and datasets.**<br>
 **This repository is corresponded to a paper manuscript submitted for JEI (Journal of Emerging Investigators).**
 
-Here are the documents in this repository:
+Here are the list of documents in this repository:
 
 ## FakeNewsDetection_General.py
 
